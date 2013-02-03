@@ -30,22 +30,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		58D4AEAD16BF0FC000D5412E /* StarJewledBot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarJewledBot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D4AEAD16BF0FC000D5412E /* StarJeweledBot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StarJeweledBot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58D4AEB116BF0FC000D5412E /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		58D4AEB416BF0FC000D5412E /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		58D4AEB516BF0FC000D5412E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		58D4AEB616BF0FC000D5412E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		58D4AEB916BF0FC000D5412E /* StarJewledBot-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StarJewledBot-Info.plist"; sourceTree = "<group>"; };
+		58D4AEB916BF0FC000D5412E /* StarJeweledBot-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StarJeweledBot-Info.plist"; sourceTree = "<group>"; };
 		58D4AEBB16BF0FC000D5412E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		58D4AEBD16BF0FC000D5412E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		58D4AEBF16BF0FC000D5412E /* StarJewledBot-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StarJewledBot-Prefix.pch"; sourceTree = "<group>"; };
+		58D4AEBF16BF0FC000D5412E /* StarJeweledBot-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StarJeweledBot-Prefix.pch"; sourceTree = "<group>"; };
 		58D4AEC116BF0FC000D5412E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
 		58D4AEC316BF0FC000D5412E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		58D4AEC416BF0FC000D5412E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		58D4AEC716BF0FC000D5412E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		58D4AECE16BF0FC000D5412E /* StarJewledBotTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarJewledBotTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		58D4AECE16BF0FC000D5412E /* StarJeweledBotTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StarJeweledBotTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58D4AECF16BF0FC000D5412E /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		58D4AED616BF0FC000D5412E /* StarJewledBotTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StarJewledBotTests-Info.plist"; sourceTree = "<group>"; };
+		58D4AED616BF0FC000D5412E /* StarJeweledBotTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StarJeweledBotTests-Info.plist"; sourceTree = "<group>"; };
 		58D4AED816BF0FC000D5412E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		58D4AEDA16BF0FC000D5412E /* StarJewledBotTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StarJewledBotTests.h; sourceTree = "<group>"; };
 		58D4AEDB16BF0FC000D5412E /* StarJewledBotTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StarJewledBotTests.m; sourceTree = "<group>"; };
@@ -85,8 +85,8 @@
 		58D4AEAE16BF0FC000D5412E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				58D4AEAD16BF0FC000D5412E /* StarJewledBot.app */,
-				58D4AECE16BF0FC000D5412E /* StarJewledBotTests.octest */,
+				58D4AEAD16BF0FC000D5412E /* StarJeweledBot.app */,
+				58D4AECE16BF0FC000D5412E /* StarJeweledBotTests.octest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,10 +125,10 @@
 		58D4AEB816BF0FC000D5412E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				58D4AEB916BF0FC000D5412E /* StarJewledBot-Info.plist */,
+				58D4AEB916BF0FC000D5412E /* StarJeweledBot-Info.plist */,
 				58D4AEBA16BF0FC000D5412E /* InfoPlist.strings */,
 				58D4AEBD16BF0FC000D5412E /* main.m */,
-				58D4AEBF16BF0FC000D5412E /* StarJewledBot-Prefix.pch */,
+				58D4AEBF16BF0FC000D5412E /* StarJeweledBot-Prefix.pch */,
 				58D4AEC016BF0FC000D5412E /* Credits.rtf */,
 			);
 			name = "Supporting Files";
@@ -147,7 +147,7 @@
 		58D4AED516BF0FC000D5412E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				58D4AED616BF0FC000D5412E /* StarJewledBotTests-Info.plist */,
+				58D4AED616BF0FC000D5412E /* StarJeweledBotTests-Info.plist */,
 				58D4AED716BF0FC000D5412E /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -156,9 +156,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		58D4AEAC16BF0FC000D5412E /* StarJewledBot */ = {
+		58D4AEAC16BF0FC000D5412E /* StarJeweledBot */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58D4AEDF16BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJewledBot" */;
+			buildConfigurationList = 58D4AEDF16BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJeweledBot" */;
 			buildPhases = (
 				58D4AEA916BF0FC000D5412E /* Sources */,
 				58D4AEAA16BF0FC000D5412E /* Frameworks */,
@@ -168,14 +168,14 @@
 			);
 			dependencies = (
 			);
-			name = StarJewledBot;
+			name = StarJeweledBot;
 			productName = StarJewledBot;
-			productReference = 58D4AEAD16BF0FC000D5412E /* StarJewledBot.app */;
+			productReference = 58D4AEAD16BF0FC000D5412E /* StarJeweledBot.app */;
 			productType = "com.apple.product-type.application";
 		};
-		58D4AECD16BF0FC000D5412E /* StarJewledBotTests */ = {
+		58D4AECD16BF0FC000D5412E /* StarJeweledBotTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 58D4AEE216BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJewledBotTests" */;
+			buildConfigurationList = 58D4AEE216BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJeweledBotTests" */;
 			buildPhases = (
 				58D4AEC916BF0FC000D5412E /* Sources */,
 				58D4AECA16BF0FC000D5412E /* Frameworks */,
@@ -187,9 +187,9 @@
 			dependencies = (
 				58D4AED316BF0FC000D5412E /* PBXTargetDependency */,
 			);
-			name = StarJewledBotTests;
+			name = StarJeweledBotTests;
 			productName = StarJewledBotTests;
-			productReference = 58D4AECE16BF0FC000D5412E /* StarJewledBotTests.octest */;
+			productReference = 58D4AECE16BF0FC000D5412E /* StarJeweledBotTests.octest */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -201,7 +201,7 @@
 				LastUpgradeCheck = 0450;
 				ORGANIZATIONNAME = "Dustin Dettmer";
 			};
-			buildConfigurationList = 58D4AEA716BF0FC000D5412E /* Build configuration list for PBXProject "StarJewledBot" */;
+			buildConfigurationList = 58D4AEA716BF0FC000D5412E /* Build configuration list for PBXProject "StarJeweledBot" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -213,8 +213,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				58D4AEAC16BF0FC000D5412E /* StarJewledBot */,
-				58D4AECD16BF0FC000D5412E /* StarJewledBotTests */,
+				58D4AEAC16BF0FC000D5412E /* StarJeweledBot */,
+				58D4AECD16BF0FC000D5412E /* StarJeweledBotTests */,
 			);
 		};
 /* End PBXProject section */
@@ -279,7 +279,7 @@
 /* Begin PBXTargetDependency section */
 		58D4AED316BF0FC000D5412E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 58D4AEAC16BF0FC000D5412E /* StarJewledBot */;
+			target = 58D4AEAC16BF0FC000D5412E /* StarJeweledBot */;
 			targetProxy = 58D4AED216BF0FC000D5412E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -378,9 +378,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "StarJewledBot/StarJewledBot-Prefix.pch";
-				INFOPLIST_FILE = "StarJewledBot/StarJewledBot-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "StarJewledBot/StarJeweledBot-Prefix.pch";
+				INFOPLIST_FILE = "StarJewledBot/StarJeweledBot-Info.plist";
+				PRODUCT_NAME = StarJeweledBot;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -390,9 +390,9 @@
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "StarJewledBot/StarJewledBot-Prefix.pch";
-				INFOPLIST_FILE = "StarJewledBot/StarJewledBot-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "StarJewledBot/StarJeweledBot-Prefix.pch";
+				INFOPLIST_FILE = "StarJewledBot/StarJeweledBot-Info.plist";
+				PRODUCT_NAME = StarJeweledBot;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -405,8 +405,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StarJewledBot/StarJewledBot-Prefix.pch";
-				INFOPLIST_FILE = "StarJewledBotTests/StarJewledBotTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "StarJewledBotTests/StarJeweledBotTests-Info.plist";
+				PRODUCT_NAME = StarJeweledBotTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -420,8 +420,8 @@
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "StarJewledBot/StarJewledBot-Prefix.pch";
-				INFOPLIST_FILE = "StarJewledBotTests/StarJewledBotTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "StarJewledBotTests/StarJeweledBotTests-Info.plist";
+				PRODUCT_NAME = StarJeweledBotTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = octest;
 			};
@@ -430,7 +430,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		58D4AEA716BF0FC000D5412E /* Build configuration list for PBXProject "StarJewledBot" */ = {
+		58D4AEA716BF0FC000D5412E /* Build configuration list for PBXProject "StarJeweledBot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D4AEDD16BF0FC000D5412E /* Debug */,
@@ -439,21 +439,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		58D4AEDF16BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJewledBot" */ = {
+		58D4AEDF16BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJeweledBot" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D4AEE016BF0FC000D5412E /* Debug */,
 				58D4AEE116BF0FC000D5412E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		58D4AEE216BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJewledBotTests" */ = {
+		58D4AEE216BF0FC000D5412E /* Build configuration list for PBXNativeTarget "StarJeweledBotTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58D4AEE316BF0FC000D5412E /* Debug */,
 				58D4AEE416BF0FC000D5412E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
