@@ -10,7 +10,11 @@ Blizzard made an exclusive Portrait in Starcraft that you can only get by beatin
 * Increase your system volume. The louder your volume the faster the bot will play.
 * The mouse will still work, allowing you to cast the heal spell (required to get the portrait).
 
-http://starcraft.wikia.com/wiki/Ornatus
+If you have a faster computer, increase the value of amnt in AppDelegate.m:187 from 20 to 50. This will greatly increase the accuracy of the bot and get you a higher score.
+
+When the program is running, a window will appear. Once the bot is started, what the bot sees on the jewel board will be displayed in the window. This is useful to debug issues and see if you need to increase the amnt value mentioned above.
+
+Here are the achievements you can unlock in Starjewled: http://starcraft.wikia.com/wiki/Ornatus
 
 Here's a video of someone getting it the hard way:
 http://www.youtube.com/watch?v=LtMOZwc32EI
