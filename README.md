@@ -8,6 +8,7 @@ Blizzard made an exclusive Portrait in Starcraft that you can only get by beatin
 * Run Starcraft in Fullscreen (Windowed) mode.
 * Put the mouse in the exact upper left corner pixel of the Bewjeweled screen.
 * Increase your system volume. The louder your volume the faster the bot will play.
+* The mouse will still work, allowing you to cast the heal spell (required to get the portrait).
 
 http://starcraft.wikia.com/wiki/Ornatus
 
