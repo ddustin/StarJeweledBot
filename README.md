@@ -21,6 +21,4 @@ Here are the achievements you can unlock in Starjewled: http://starcraft.wikia.c
 Here's a video of someone getting it the hard way:
 http://www.youtube.com/watch?v=LtMOZwc32EI
 
-Here is the bot in action:
-
 <img src="https://raw.githubusercontent.com/ddustin/StarJeweledBot/master/StarJeweledBot/2.png"/>
